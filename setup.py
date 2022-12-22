@@ -36,7 +36,7 @@ setup(
     ],
     keywords="remove, background, u2net",
     packages=["rembg"],
-    python_requires=">3.7,
+    python_requires=">3.7",
     install_requires=[
         "aiohttp>=3.8.1",
         "asyncer>=0.0.2",
